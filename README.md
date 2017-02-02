@@ -1,7 +1,7 @@
 # beans-polish-translation
 Polish language translations for Beans (http://www.getbeans.io/) Wordpress theme.
 
-It isn't completed yet, just one text translated to see if it works :stuck_out_tongue_winking_eye:.
+It isn't completed yet, just one text translated to see if it works :stuck_out_tongue_winking_eye:.  
 I will continue work, but any contribution or comments are welcome.
 
 Installation example :
